@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kerrishotts.github.io/csb-1s4rq/static/css/main.d8313bce.chunk.css",
+    "main.js": "https://kerrishotts.github.io/csb-1s4rq/static/js/main.a902f2ce.chunk.js",
+    "main.js.map": "https://kerrishotts.github.io/csb-1s4rq/static/js/main.a902f2ce.chunk.js.map",
+    "runtime-main.js": "https://kerrishotts.github.io/csb-1s4rq/static/js/runtime-main.87052ec7.js",
+    "runtime-main.js.map": "https://kerrishotts.github.io/csb-1s4rq/static/js/runtime-main.87052ec7.js.map",
+    "static/js/2.5418a8fc.chunk.js": "https://kerrishotts.github.io/csb-1s4rq/static/js/2.5418a8fc.chunk.js",
+    "static/js/2.5418a8fc.chunk.js.map": "https://kerrishotts.github.io/csb-1s4rq/static/js/2.5418a8fc.chunk.js.map",
+    "index.html": "https://kerrishotts.github.io/csb-1s4rq/index.html",
+    "static/css/main.d8313bce.chunk.css.map": "https://kerrishotts.github.io/csb-1s4rq/static/css/main.d8313bce.chunk.css.map",
+    "static/js/2.5418a8fc.chunk.js.LICENSE.txt": "https://kerrishotts.github.io/csb-1s4rq/static/js/2.5418a8fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87052ec7.js",
+    "static/js/2.5418a8fc.chunk.js",
+    "static/css/main.d8313bce.chunk.css",
+    "static/js/main.a902f2ce.chunk.js"
+  ]
+}
